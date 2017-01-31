@@ -1,0 +1,9 @@
+{
+  "name": "doit",
+  "description": "just do it",
+  "memory": 512,
+  "timeout": 180,
+  "role": "arn:aws:iam::554755458090:role/doit_lambda_function",
+  "runtime": "nodejs4.3",
+  "handler": "app.handler"
+}
