@@ -1,0 +1,14 @@
+{
+  "name": "doit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14",
+    "webdriverio": "^4.6.2"
+  }
+}

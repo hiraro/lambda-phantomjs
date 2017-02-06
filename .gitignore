@@ -1,1 +1,1 @@
-functions/doit/node_modules/**/*
+functions/*/node_modules/**/*
